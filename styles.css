@@ -1,0 +1,35 @@
+body {
+    background-color:#1B1D1B;
+    color: #E1EDE3;
+    font-family:"Lato", sans-serif;
+}
+
+section{ 
+    margin-bottom: 4rem;
+}
+
+.description {
+    width: 450px;
+    line-height: 24px;
+    opacity: 0.8;
+    font-weight: 300;
+}
+
+.title-perfil{
+    color: rgb(174, 197, 172);
+}
+
+
+#img-bio {
+    width: 250px;
+    height: 200px;
+}
+
+#img-bio img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+}
